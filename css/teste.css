@@ -1,0 +1,23 @@
+body {
+  background-color: #DC143C;
+  font-style: oblique;
+}
+
+table {
+  border-style: dotted;
+  border-color: #00FFFF;
+  width: 500px;
+  height: 250px;
+}
+
+.titulo {
+  color: 	#00FFFF;
+}
+
+#centralizado {
+	margin: 0 auto;
+}
+
+#div1{
+  background-color: #9932CC;
+}
